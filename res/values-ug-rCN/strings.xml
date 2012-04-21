@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSP باشقۇرغۇچ</string>
+    <string name="select_configuration_title">سەپلەيدىغان تەھرىرلەشنى تاللاڭ</string>
+    <string name="headset_title">تىڭشىغۇچ</string>
+    <string name="speaker_title">تېلېفون ياڭراتقۇ</string>
+    <string name="bluetooth_title">كۆكچىش ئۈسكۈنە</string>
+    <string name="audio_effects">ئاۋاز ئۈنۈملىرى</string>
+    <string name="dsp_settings_headset">DSP تەڭشەك - تىڭشىغۇچ</string>
+    <string name="dsp_settings_speaker">DSP تەڭشەك - تېلېفون ياڭراتقۇ</string>
+    <string name="dsp_settings_bluetooth">DSP تەڭشەك - كۆكچىش ئۈسكۈنە</string>
+    <string name="pref_dsp_title">ھەرىكەتچان دائىرىنى پىرىسلاش</string>
+    <string name="pref_dsp_summary_on">پىرىسلاش قوزغىتىلدى</string>
+    <string name="pref_dsp_summary_off">پىرىسلاش چەكلەندى</string>
+    <string name="pref_dsp_enable">قوزغات</string>
+    <string name="pref_effect_title">ئۈنۈم كۈچلۈكلۈكىنى تاللاڭ</string>
+    <string name="dialog_effect">ئۈنۈم كۈچلۈكلۈكى</string>
+    <string name="pref_equalizer_title">تەڭشىگۈچ</string>
+    <string name="pref_equalizer_summary_on">تەڭشىگۈچ قوزغىتىلدى</string>
+    <string name="pref_equalizer_summary_off">تەڭشىگۈچ چەكلەندى</string>
+    <string name="pref_equalizer_enable">قوزغات</string>
+    <string name="pref_equalizer_preset_title">ئالدىن تەڭشەكنى تاللاڭ</string>
+    <string name="pref_equalizer_loudness_title">ياڭراقلىق تولۇقلاش</string>
+    <string name="pref_bassboost_title">تۆۋەن ئاۋازنى يۇقىرىلىتىش</string>
+    <string name="pref_bassboost_summary_on">تۆۋەن ئاۋازنى يۇقىرىلىتىش قوزغىتىلغان</string>
+    <string name="pref_bassboost_summary_off">تۆۋەن ئاۋازنى يۇقىرىلىتىش چەكلەنگەن</string>
+    <string name="pref_bassboost_enable">قوزغات</string>
+    <string name="pref_headset_virtual_title">تىڭشىغۇچنىڭ مەۋھۇم بوشلۇقتىكى ئۈنۈمى</string>
+    <string name="pref_headset_virtual_summary_on">تىڭشىغۇچنىڭ مەۋھۇم بوشلۇقى قوزغىتىلغان</string>
+    <string name="pref_headset_virtual_summary_off">تىڭشىغۇچنىڭ مەۋھۇم بوشلۇقى چەكلەنگەن</string>
+    <string name="pref_headset_virtual_enable">قوزغات</string>
+    <string name="pref_room_title">ئۆي تىپىنى تاللاڭ</string>
+    <string name="dialog_room">ئۆي تىپى</string>
+    <string name="menu_reset">ئەسلىگە قايتۇر</string>
+
+    <string name="eq_preset_acoustic">توكسىز مۇزىكا</string>
+    <string name="eq_preset_bass_booster">تۆۋەن ئاۋازنى يۇقىرىلاتقۇچ</string>
+    <string name="eq_preset_bass_reducer">تۆۋەن ئاۋازنى پەسەيتكۇچ</string>
+    <string name="eq_preset_classical">كىلاسسىك</string>
+    <string name="eq_preset_deep">تۆۋەن</string>
+    <string name="eq_preset_flat">تەكشىلىك</string>
+    <string name="eq_preset_r_and_b">R&amp;B</string>
+    <string name="eq_preset_rock">تولغىما ئۇسسۇل</string>
+    <string name="eq_preset_small_speakers">كىچىك ياڭراتقۇلار</string>
+    <string name="eq_preset_treble_booster">ئاۋازنى ئۈچ ھەسسە يۇقىرىلاتقۇچ</string>
+    <string name="eq_preset_treble_reducer">ئاۋازنى ئۈچ ھەسسە پەسەيتكۈچ</string>
+    <string name="eq_preset_vocal_booster">ئاۋاز يۇقىرىلاتقۇچ</string>
+    <string name="eq_preset_custom">ئۆزلەشتۈر</string>
+
+</resources>
